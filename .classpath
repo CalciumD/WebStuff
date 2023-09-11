@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/angus-activation-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/angus-mail-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/FastInfoset-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/gmbal-api-only-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/ha-api-3.1.13.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jakarta.annotation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jakarta.mail-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jakarta.xml.soap-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jakarta.xml.ws-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jaxb-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jaxb-impl-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jaxb-impl-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/jaxws-rt-4.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/management-api-3.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/mimepull-1.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/saaj-impl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/stax-ex-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/stax-ex-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/streambuffer-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/streambuffer-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Software Engineering/Rhys-CourseWork/CSF205-CW1-JAR-1/CSF205-CW1-JAR/woodstox-core-6.2.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
